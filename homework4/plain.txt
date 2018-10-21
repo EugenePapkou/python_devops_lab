@@ -1,0 +1,49 @@
+
+
+ SNAPSHOT 1:2018-07-12 18:40:25: 
+
+CPU: 82.4
+
+Disk usage: sdiskusage(total=865477320704, used=273962913792, free=547526856704, percent=33.3)
+
+Virtual memory: svmem(total=12299227136, available=7106265088, percent=42.2, used=4120006656, free=4111613952, active=5452038144, inactive=2097295360, buffers=295165952, cached=3772440576, shared=745304064, slab=432427008)
+
+IO information: sdiskio(read_count=147732, write_count=1480712, read_bytes=2879526912, write_bytes=44746050560, read_time=1915209, write_time=7684807, read_merged_count=2676, write_merged_count=567216, busy_time=2550836)
+
+Network statistics: {'eno1': snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_FULL: 2>, speed=1000, mtu=1500), 'lo': snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_UNKNOWN: 0>, speed=0, mtu=65536), 'virbr0-nic': snicstats(isup=False, duplex=<NicDuplex.NIC_DUPLEX_FULL: 2>, speed=10, mtu=1500), 'virbr0': snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_UNKNOWN: 0>, speed=0, mtu=1500)}
+
+ SNAPSHOT 2:2018-07-12 18:40:27: 
+
+CPU: 82.3
+
+Disk usage: sdiskusage(total=865477320704, used=273962917888, free=547526852608, percent=33.3)
+
+Virtual memory: svmem(total=12299227136, available=7106691072, percent=42.2, used=4119580672, free=4112035840, active=5450952704, inactive=2097344512, buffers=295165952, cached=3772444672, shared=745304064, slab=432427008)
+
+IO information: sdiskio(read_count=147732, write_count=1480712, read_bytes=2879526912, write_bytes=44746050560, read_time=1915209, write_time=7684807, read_merged_count=2676, write_merged_count=567216, busy_time=2550836)
+
+Network statistics: {'eno1': snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_FULL: 2>, speed=1000, mtu=1500), 'lo': snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_UNKNOWN: 0>, speed=0, mtu=65536), 'virbr0-nic': snicstats(isup=False, duplex=<NicDuplex.NIC_DUPLEX_FULL: 2>, speed=10, mtu=1500), 'virbr0': snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_UNKNOWN: 0>, speed=0, mtu=1500)}
+
+ SNAPSHOT 3:2018-07-12 18:40:28: 
+
+CPU: 82.6
+
+Disk usage: sdiskusage(total=865477320704, used=273962917888, free=547526852608, percent=33.3)
+
+Virtual memory: svmem(total=12299227136, available=7106625536, percent=42.2, used=4119646208, free=4111970304, active=5451825152, inactive=2097340416, buffers=295165952, cached=3772444672, shared=745304064, slab=432427008)
+
+IO information: sdiskio(read_count=147732, write_count=1480729, read_bytes=2879526912, write_bytes=44746173440, read_time=1915209, write_time=7684836, read_merged_count=2676, write_merged_count=567229, busy_time=2550865)
+
+Network statistics: {'eno1': snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_FULL: 2>, speed=1000, mtu=1500), 'lo': snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_UNKNOWN: 0>, speed=0, mtu=65536), 'virbr0-nic': snicstats(isup=False, duplex=<NicDuplex.NIC_DUPLEX_FULL: 2>, speed=10, mtu=1500), 'virbr0': snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_UNKNOWN: 0>, speed=0, mtu=1500)}
+
+ SNAPSHOT 4:2018-07-12 18:40:30: 
+
+CPU: 82.5
+
+Disk usage: sdiskusage(total=865477320704, used=273962917888, free=547526852608, percent=33.3)
+
+Virtual memory: svmem(total=12299227136, available=7105953792, percent=42.2, used=4120317952, free=4111298560, active=5452279808, inactive=2097340416, buffers=295165952, cached=3772444672, shared=745304064, slab=432427008)
+
+IO information: sdiskio(read_count=147732, write_count=1480729, read_bytes=2879526912, write_bytes=44746173440, read_time=1915209, write_time=7684836, read_merged_count=2676, write_merged_count=567229, busy_time=2550865)
+
+Network statistics: {'eno1': snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_FULL: 2>, speed=1000, mtu=1500), 'lo': snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_UNKNOWN: 0>, speed=0, mtu=65536), 'virbr0-nic': snicstats(isup=False, duplex=<NicDuplex.NIC_DUPLEX_FULL: 2>, speed=10, mtu=1500), 'virbr0': snicstats(isup=True, duplex=<NicDuplex.NIC_DUPLEX_UNKNOWN: 0>, speed=0, mtu=1500)}
